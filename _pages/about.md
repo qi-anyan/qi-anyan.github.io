@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Welcome to My Website!"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-RESEARCH
-======
+
 
 Journal Papers
 ------
