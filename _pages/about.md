@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research"
+title: "RESEARCH"
 author_profile: true
 redirect_from: 
   - /about/
