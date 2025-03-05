@@ -1,49 +1,242 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: #"Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+RESEARCH
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Journal Papers
+------
 
-Getting started
+1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
+
+1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2024. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
+
+1. “To communicate or not? Inter-firm communication in collaborative projects,” with Ruth Beer, 2024. **Management Science**, 70(5): 3225–3244. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290267)
+
+1. "Dynamic pricing and learning with discounting," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman, 2024. **Operations Research**, 72(2): 481–492. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4222004)
+
+1. “An asymptotically tight learning algorithm for mobile-promotion platforms,” with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman, 2023. **Management Science**, 69(3): 1536–1554. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3523491) 
+
+1. “Procurement for assembly under asymmetric information: Theory and evidence,” with Andrew Davis, Bin Hu, and Kyle Hyndman, 2022. **Management Science**, 68(4): 2694–2713. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3292622)
+
+1. “Supplier centrality and auditing priority in socially responsible supply chains,” with Jiayu Chen and Milind Dawande, 2020. **Manufacturing & Service Operations Management**, 22(6): 1199-1214. [[SSRN]](https://papers.ssrn.com/abstract=2889889)
+    - Honorable Mention in POMS College of Sustainable Operations 2019 Best Student Paper Competition (entrant: Jiayu Chen)
+
+1. “To share or not to share? Capacity reservation in a shared supplier,” with Hyun-Soo Ahn and Amitabh Sinha, 2019. **Production and Operations Management**, 28(11): 2823–2840. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2909260)
+
+1. “Optimal incentive contracts in project management,” with Milind Dawande, Ganesh Janakiraman, and Qi Wu, 2019. **Production and Operations Management**, 28(6): 1431–1445. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3016515)
+
+1. “Optimal procurement mechanisms for assembly,” with Bin Hu, 2018. **Manufacturing & Service Operations Management**, 20(4): 655–666. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2635069)
+
+
+1. “Capacity investment with demand learning,” with Hyun-Soo Ahn and Amitabh Sinha, 2017. **Operations Research**, 65(1): 145–164. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2789834)
+    - Finalist in M&SOM Student Paper Competition
+    - Extended abstract published in M&SOM, 16(1): 161–164.
+
+
+
+1. “Investing in a shared supplier in a competitive market: Stochastic capacity case,” with Hyun-Soo Ahn and Amitabh Sinha, 2015. **Production and Operations Management**, 24(10): 1537–1551. [[Journal]](https://journals.sagepub.com/doi/full/10.1111/poms.12348)
+    - Finalist in POMS College of Supply Chain Management Student Paper Competition
+
+
+Papers under Review/Revision
+------
+
+**Socially Responsible Operations and New Business Models (Game-Theoretic Models)**
+
+1. "Combating excessive overtime in global supply chains," with Jiayu Chen and Chuanya Jiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
+    - Finalist in 2022 INFORMS PSOR Best Paper Award
+    - Third place in 2022 ISCOM Best Paper Award
+
+2. "Stability of procurement networks," with Khai Chiong. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
+
+3. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
+
+4. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
+
+
+**Innovation and New Product Development (Behavioral Operations Management)**
+
+5. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
+
+6. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
+    - Selected for presentation at 2023 MSOM TIE SIG Meeting
+
+7. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
+
+
+**Learning Algorithms and Optimization in Operations Management (Data-Driven Optimization)**
+
+8. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
+
+9. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
+
+10. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
+
+11. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
+    - Selected for presentation at 2023 MSOM SCM SIG Meeting
+
+
+Invited Book Chapter
+------
+
+1. “Auditing, inspections, and testing for social responsibility in supply networks,” with Milind Dawande, 2020. Swaminathan, J, Deshpande, V, eds. Responsible Business Operations, Springer Series in Supply Chain Management 10, (Springer Nature Switzerland AG, Switzerland), 243—259. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521582)
+
+
+<br><br>
+
+TEACHING 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Naveen Jindal School of Management, the University of Texas at Dallas
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+### Ph.D. Dissertation Committee Co-Chair
+
+- Pramit Ghosh, co-chair with Ignacio Rios
+- 2020, Jiayu Chen (Assistant Professor at University of Calgary), co-chair with Milind Dawande
+- 2018, Sina Shokoohyar (Assistant Professor at Saint Joseph’s University), co-chair with Elena Katok
+
+
+### Ph.D. Dissertation Committee Member
+
+- 2025, Haokun Du (Assistant Professor at University of Auckland)
+- 2025, Beyza Celik (Data Scientist at American Airline)
+- 2024, Goutham Takasi (Assistant Professor at University of Alabama)
+- 2024, Arun Kumar Rout (Assistant Professor at SUNY Buffalo)
+- 2024, Zihao Qu (Assistant Professor at UMass Amherst)
+- 2022, Lingling Shi (Postdoctoral Researcher at Southern Methodist University)
+- 2022, Duc Vu (Assistant Professor at University of Michigan-Flint)
+- 2020, Zhichao Feng (Assistant Professor at The Hong Kong Polytechnic University)
+- 2019, Harish Guda (Assistant Professor at Arizona State University)
+- 2019, Xi Shan (Visiting Assistant Professor at Boston College)
+- 2017, Yang Bo (Assistant Professor at Chinese University of Hong Kong)
+- 2017, Emre Ertan (Research Scientist at Amazon)
+
+
+### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
+
+- 2024, Spring, 5.0/5.0
+- 2023, Spring, 4.8/5.0
+- 2022, Fall, 5.0/5.0
+- 2021, Fall, 4.9/5.0
+- 2019, Fall, 4.9/5.0, 4.9/5.0
+- 2018, Fall, 4.9/5.0, 5.0/5.0, 5.0/5.0
+- 2017, Fall, 5.0/5.0
+- 2016, Fall, 5.0/5.0
+- 2015, Fall, 5.0/5.0
+- 2014, Fall, 4.9/5.0, 4.9/5.0
+
+
+### OPRE 3310: Operations management 
+
+- 2024, Fall, 4.9/5.0
+- 2023, Fall, 4.9/5.0, 4.9/5.0
+- 2022, Fall, 4.9/5.0
+- 2021, Fall, 4.9/5.0
+- 2021, Spring, 4.8/5.0
+- 2020, Fall, 5.0/5.0, 4.9/5.0
+- 2017, Fall, 4.9/5.0, 4.9/5.0
+- 2016, Fall, 5.0/5.0, 5.0/5.0
+- 2015, Fall, 4.8/5.0, 5.0/5.0
+
+
+### OPRE 6301: Statistics and data analysis
+
+- 2020, Spring, 5.0/5.0
+
+
+Stephen M. Ross School of Business, University of Michigan
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+### OMS 311: Operations management
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- 2011, Winter, 5.0/5.0.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<br><br>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+SERVICE
+======
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Editorial Service
+
+- Associate Editor for **Manufacturing & Service Operations Management** (2024–present)
+- Senior Editor for **Production and Operations Management** (2019–present)
+- Associate Editor for **Decision Sciences** (2022–present)
+- Department Editor for **Journal of Systems Science and Systems Engineering** (2025-present)
+
+
+### Referee Service
+
+- Reviewer for Management Science, Operations Research, Manufacturing & Service Operations Management, Production and Operations Management, Strategic Management Journal, Naval Research Logistics, IISE Transactions, Omega, International Transactions in Operations Research, Economic Inquiry
+- Reviewer for Research Grants Council (RGC) of Hong Kong (2018, 2019, 2020, 2022)
+- Conference Reviewer for MSOM SCM SIG (2017, 2018, 2019, 2020, 2022, 2023)
+- Conference Reviewer for MSOM TIE SIG (2023)
+- Conference Reviewer for MSOM Sustainable Operations SIG (2020, 2021)
+
+
+### Judge for Paper Competitions
+
+- Judge for MSOM Student Paper Competition (2017, 2018, 2019, 2020, 2021, 2022, 2023) 
+- Judge for CSAMSE Best Paper Competition (2021, 2022, 2023)
+- Judge for INFORMS PSOR Best Paper Award (2021)
+- Judge for INFORMS TIMES Best Working Paper Competition (2020, 2021, 2022, 2023)
+- Judge for INFORMS BOM Best Working Paper Competition (2016, 2020, 2021, 2023)
+- Judge for POMS College of Supply Chain Management Student Paper Competition (2020)
+- Judge for POMS College of Behavior in OM Junior Scholar Paper Competition (2020, 2022, 2023)
+- Judge for POMS-HK Best Student Paper Competition (2024)
+
+
+### Other
+
+- Track Co-Chair for POMS Annual Meeting, Atlanta, GA (2025)
+- SIG-Day Co-Chair for MSOM SCM SIG Conference, Minneapolis, MN (2024)
+- Cluster Co-Chair for INFORMS Annual Meeting, Phoenix, AZ (2023)
+- Invited Panelist of POMS College of SCM Mini Conference, Orlando, FL (2023)
+- Track Co-Chair for POMS Annual Meeting, Orlando, FL (2023)
+- Cluster Co-Chair for INFORMS Annual Meeting, Phoenix, AZ (2018)
+- Invited Panelist of INFORMS Doctoral Student Colloquium, Nashville, TN (2016)
+- Conference Organizing Committee member for MSOM Conference 2018
+- Conference Organizing Committee member for BOM Conference 2018
+- Session Chair for several conferences
+
+
+<br><br>
+
+HONORS
+======
+
+- Management Science Meritorious Service Award (2024)
+- Management Science Distinguished Service Award (2023)
+- 2022 M&SOM Meritorious Service Award
+- Management Science Meritorious Service Award (2022)
+- 2021 M&SOM Meritorious Service Award
+- Management Science Distinguished Service Award (2021)
+- Sydney Smith Hicks Faculty Fellow, JSOM, UT Dallas (2018–2020)
+- 2020 M&SOM Meritorious Service Award
+- Management Science Distinguished Service Award (2020)
+- 2019 M&SOM Meritorious Service Award
+- 2018 M&SOM Meritorious Service Award
+- Management Science Distinguished Service Award (2018)
+- 2018 OMEGA Best Reviewer
+- 2017 M&SOM Meritorious Service Award
+- Outstanding Undergraduate Teacher of the Year, JSOM, UT Dallas (2016)
+- Finalist in M&SOM Student Paper Competition (2013)
+- Finalist in POMS College of Supply Chain Management Student Paper Competition (2012)
+- Richter Fellowship, Ross School of Business, University of Michigan (2012–2014)
+- Neary Fellowship, Ross School of Business, University of Michigan (2013)
+- Stark Fellowship, Ross School of Business, University of Michigan (2012)
+- Dykstra Fellowship, Ross School of Business, University of Michigan (2011–2012)
+- Leabo Memorial Scholarship, University of Michigan (2010)
+- Ross Business School Fellowship, University of Michigan (2008–2012)
+- Siemens Scholarship, Tsinghua University (2007)
+- Chang Tong Scholarship, Tsinghua University (2006)
+- National Scholarship, Tsinghua University (2005)
+- POSCO Scholarship, Tsinghua University (2004)
+
