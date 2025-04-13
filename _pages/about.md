@@ -84,7 +84,7 @@ Papers under Review/Revision
 
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
-**Collaborative Projects and Behavioral Analysis**
+**Collaborative Projects**
 
 1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
