@@ -56,39 +56,40 @@ Journal Papers
 Papers under Review/Revision
 ------
 
-**Socially Responsible Operations and New Business Models (Game-Theoretic Models)**
+**Social Responsibility and Sustainability**
 
 1. "Combating excessive overtime in global supply chains," with Jiayu Chen and Chuanya Jiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
     - Finalist in 2022 INFORMS PSOR Best Paper Award
     - Third place in 2022 ISCOM Best Paper Award
 
-2. "Stability of procurement networks," with Khai Chiong. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
+1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
-3. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
+**Capacity Management and Resource Allocation**
 
-4. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
+1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
 
+1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
-**Innovation and New Product Development (Behavioral Operations Management)**
+1. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
 
-5. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
+1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
+    - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
-6. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
+**Procurement Mechanism and Contract Design**
+
+1. "Stability of procurement networks," with Khai Chiong. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
+
+1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
-7. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
+1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
+**Collaborative Projects and Behavioral Analysis**
 
-**Learning Algorithms and Optimization in Operations Management (Data-Driven Optimization)**
+1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
-8. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
+1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
-9. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
-
-10. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
-
-11. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
-    - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
 
 Invited Book Chapter
