@@ -205,7 +205,9 @@ SERVICE
 
 ### Other
 
+- Invited Panelist of DSI Annual Conference, Orlando, FL (2025)
 - Track Co-Chair for POMS Annual Meeting, Atlanta, GA (2025)
+- Invited Panelist of INFORMS Doctoral Student Colloquium, Seattle, WA (2024)
 - SIG-Day Co-Chair for MSOM SCM SIG Conference, Minneapolis, MN (2024)
 - Cluster Co-Chair for INFORMS Annual Meeting, Phoenix, AZ (2023)
 - Invited Panelist of POMS College of SCM Mini Conference, Orlando, FL (2023)
