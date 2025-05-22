@@ -101,6 +101,7 @@ Invited Book Chapter
 <br><br>
 
 TEACHING 
+<span style="font-size: 10px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 ======
 
 Naveen Jindal School of Management, the University of Texas at Dallas
@@ -131,29 +132,29 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 
 ### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
 
-- 2024, Spring, 5.0/5.0
-- 2023, Spring, 4.8/5.0
-- 2022, Fall, 5.0/5.0
-- 2021, Fall, 4.9/5.0
-- 2019, Fall, 4.9/5.0, 4.9/5.0
-- 2018, Fall, 4.9/5.0, 5.0/5.0, 5.0/5.0
-- 2017, Fall, 5.0/5.0
-- 2016, Fall, 5.0/5.0
-- 2015, Fall, 5.0/5.0
-- 2014, Fall, 4.9/5.0, 4.9/5.0
+- 2024, Spring, 5.0
+- 2023, Spring, 4.8
+- 2022, Fall, 5.0
+- 2021, Fall, 4.9
+- 2019, Fall, 4.9, 4.9
+- 2018, Fall, 4.9, 5.0, 5.0
+- 2017, Fall, 5.0
+- 2016, Fall, 5.0
+- 2015, Fall, 5.0
+- 2014, Fall, 4.9, 4.9
 
 
 ### OPRE 3310: Operations management 
 
-- 2024, Fall, 4.9/5.0
-- 2023, Fall, 4.9/5.0, 4.9/5.0
-- 2022, Fall, 4.9/5.0
-- 2021, Fall, 4.9/5.0
-- 2021, Spring, 4.8/5.0
-- 2020, Fall, 5.0/5.0, 4.9/5.0
-- 2017, Fall, 4.9/5.0, 4.9/5.0
-- 2016, Fall, 5.0/5.0, 5.0/5.0
-- 2015, Fall, 4.8/5.0, 5.0/5.0
+- 2024, Fall, 4.9
+- 2023, Fall, 4.9, 4.9
+- 2022, Fall, 4.9
+- 2021, Fall, 4.9
+- 2021, Spring, 4.8
+- 2020, Fall, 5.0, 4.9
+- 2017, Fall, 4.9, 4.9
+- 2016, Fall, 5.0, 5.0
+- 2015, Fall, 4.8, 5.0
 
 
 ### OPRE 6301: Statistics and data analysis
