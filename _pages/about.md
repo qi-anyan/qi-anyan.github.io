@@ -101,8 +101,9 @@ Invited Book Chapter
 <br><br>
 
 TEACHING 
-<span style="font-size: 10px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 ======
+
+<span style="font-size: 16px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 
 Naveen Jindal School of Management, the University of Texas at Dallas
 ------
