@@ -53,7 +53,7 @@ Journal Papers
     - Finalist in POMS College of Supply Chain Management Student Paper Competition
 
 
-Papers under Review/Revision
+Working Papers
 ------
 
 **Social Responsibility and Sustainability**
