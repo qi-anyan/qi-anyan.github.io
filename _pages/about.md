@@ -90,6 +90,7 @@ Papers under Review/Revision
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
+1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. 
 
 
 Invited Book Chapter
@@ -160,7 +161,7 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 
 ### OPRE 6301: Statistics and data analysis
 
-- 2020, Spring, 5.0/5.0
+- 2020, Spring, 5.0
 
 
 Stephen M. Ross School of Business, University of Michigan
@@ -168,7 +169,7 @@ Stephen M. Ross School of Business, University of Michigan
 
 ### OMS 311: Operations management
 
-- 2011, Winter, 5.0/5.0.
+- 2011, Winter, 5.0
 
 <br><br>
 
