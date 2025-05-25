@@ -190,21 +190,21 @@ SERVICE
 ### Referee Service
 
 - Reviewer for Management Science, Operations Research, Manufacturing & Service Operations Management, Production and Operations Management, Strategic Management Journal, Naval Research Logistics, IISE Transactions, Omega, International Transactions in Operations Research, Economic Inquiry
-- Reviewer for Research Grants Council (RGC) of Hong Kong (2018, 2019, 2020, 2022)
-- Conference Reviewer for MSOM SCM SIG (2017, 2018, 2019, 2020, 2022, 2023)
-- Conference Reviewer for MSOM TIE SIG (2023)
+- Reviewer for Research Grants Council (RGC) of Hong Kong (2018–2020, 2022)
+- Conference Reviewer for MSOM SCM SIG (2017–2023)
+- Conference Reviewer for MSOM TIE SIG (2023, 2025)
 - Conference Reviewer for MSOM Sustainable Operations SIG (2020, 2021)
 
 
 ### Judge for Paper Competitions
 
-- Judge for MSOM Student Paper Competition (2017, 2018, 2019, 2020, 2021, 2022, 2023) 
-- Judge for CSAMSE Best Paper Competition (2021, 2022, 2023)
+- Judge for MSOM Student Paper Competition (2017–2024) 
+- Judge for CSAMSE Best Paper Competition (2021–2024)
 - Judge for INFORMS PSOR Best Paper Award (2021)
-- Judge for INFORMS TIMES Best Working Paper Competition (2020, 2021, 2022, 2023)
+- Judge for INFORMS TIMES Best Working Paper Competition (2020–2025)
 - Judge for INFORMS BOM Best Working Paper Competition (2016, 2020, 2021, 2023)
 - Judge for POMS College of Supply Chain Management Student Paper Competition (2020)
-- Judge for POMS College of Behavior in OM Junior Scholar Paper Competition (2020, 2022, 2023)
+- Judge for POMS College of Behavior in OM Junior Scholar Paper Competition (2020, 2022–2025)
 - Judge for POMS-HK Best Student Paper Competition (2024)
 
 
