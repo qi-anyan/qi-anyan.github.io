@@ -64,6 +64,8 @@ Working Papers
 
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
+1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao.
+
 **Capacity Management and Resource Allocation**
 
 1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
