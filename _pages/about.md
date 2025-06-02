@@ -114,7 +114,7 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 
 ### Ph.D. Dissertation Committee Co-Chair
 
-- Pramit Ghosh, co-chair with Ignacio Rios
+- 2026 (expected), Pramit Ghosh, co-chair with Ignacio Rios
 - 2020, Jiayu Chen (Assistant Professor at University of Calgary), co-chair with Milind Dawande
 - 2018, Sina Shokoohyar (Assistant Professor at Saint Joseph’s University), co-chair with Elena Katok
 
@@ -137,6 +137,7 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 
 ### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
 
+- 2025, Spring, 4.9, 4.9
 - 2024, Spring, 5.0
 - 2023, Spring, 4.8
 - 2022, Fall, 5.0
