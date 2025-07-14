@@ -20,6 +20,8 @@ RESEARCH
 
 Journal Papers
 ------
+1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
+
 1. "Stability of procurement networks," with Khai Chiong, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
 
 1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
@@ -86,8 +88,6 @@ Working Papers
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
 **Collaborative Projects**
-
-1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
