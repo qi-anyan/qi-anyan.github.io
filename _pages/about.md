@@ -67,7 +67,7 @@ Working Papers
 
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
-1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao.
+1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
 **Capacity Management and Resource Allocation**
 
@@ -93,7 +93,7 @@ Working Papers
 
 1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
 
-1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios.
+1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
 
 Invited Book Chapter
 ------
@@ -188,6 +188,9 @@ SERVICE
 - Department Editor for **Journal of Systems Science and Systems Engineering** (2025-present)
 - Guest Associate Editor for **Management Science** (2024-2025)
 
+### Academic Community Service
+
+- Chair for **MSOM Society SCM SIG** (2025-present)
 
 ### Referee Service
 
