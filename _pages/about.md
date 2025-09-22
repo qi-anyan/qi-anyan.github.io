@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Anyan Qi is an Associate Professor of Operations Management at the Naveen Jindal School of Management (JSOM) at the University of Texas at Dallas (UT-Dallas). His primary research interests are in socially responsible operations, strategic procurement, and capacity management in modern supply chains, where he leverages tools such as game theory, behavioral experiments, and data-driven optimization. His work has been published in **Management Science**, **Manufacturing & Service Operations Management**, **Operations Research**, and **Production and Operations Management**. 
+Anyan Qi is a Visiting Associate Professor of Operations Management at the SC Johnson College of Business at Cornell University and an Associate Professor of Operations Management at the Naveen Jindal School of Management (JSOM) at the University of Texas at Dallas (UT-Dallas). His primary research interests are in socially responsible operations, strategic procurement, and capacity management in modern supply chains, where he leverages tools such as game theory, behavioral experiments, and data-driven optimization. His work has been published in **Management Science**, **Manufacturing & Service Operations Management**, **Operations Research**, and **Production and Operations Management**. 
 
 As an active member of the academic community, Anyan serves as an Associate Editor for **Management Science**, **Manufacturing & Service Operations Management**, and **Decision Sciences**, a Senior Editor for **Production and Operations Management**, and a Department Editor for the **Journal of Systems Science and Systems Engineering**. He has received the Management Science Distinguished Service Award, the Management Science Meritorious Service Award, and the M&SOM Meritorious Service Award. In JSOM, he also serves as the PhD Area Coordinator for Operations Management ([Program LinkedIn Page](https://www.linkedin.com/company/jsom-operations-management-phd-program/?viewAsMember=true)). 
 
@@ -20,6 +20,10 @@ RESEARCH
 
 Journal Papers
 ------
+1. "Combating excessive overtime in global supply chains," with Jiayu Chen and Chuanya Jiao, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
+    - Finalist in 2022 INFORMS PSOR Best Paper Award
+    - Third place in 2022 ISCOM Best Paper Award
+
 1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
 1. "Stability of procurement networks," with Khai Chiong, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
@@ -60,10 +64,6 @@ Working Papers
 ------
 
 **Social Responsibility and Sustainability**
-
-1. "Combating excessive overtime in global supply chains," with Jiayu Chen and Chuanya Jiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
-    - Finalist in 2022 INFORMS PSOR Best Paper Award
-    - Third place in 2022 ISCOM Best Paper Award
 
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
