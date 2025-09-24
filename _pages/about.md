@@ -30,7 +30,7 @@ Journal Papers
 
 1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
 
-1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2024. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
+1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
 
 1. “To communicate or not? Inter-firm communication in collaborative projects,” with Ruth Beer, 2024. **Management Science**, 70(5): 3225–3244. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290267)
 
