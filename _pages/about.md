@@ -63,13 +63,9 @@ Journal Papers
 Working Papers
 ------
 
-**Social Responsibility and Sustainability**
-
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
-
-**Capacity Management and Resource Allocation**
 
 1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
 
@@ -80,14 +76,10 @@ Working Papers
 1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
     - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
-**Procurement Mechanism and Contract Design**
-
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
-
-**Collaborative Projects**
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
