@@ -20,6 +20,8 @@ RESEARCH
 
 Journal Papers
 ------
+1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
+
 1. "Combating excessive overtime in global supply chains: The workforce perspective," with Jiayu Chen and Chuanya Jiao, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
     - Finalist in 2022 INFORMS PSOR Best Paper Award
     - Third place in 2022 ISCOM Best Paper Award
@@ -70,8 +72,6 @@ Working Papers
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
 **Capacity Management and Resource Allocation**
-
-1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
 
 1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
