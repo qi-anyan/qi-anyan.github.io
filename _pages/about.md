@@ -92,7 +92,7 @@ Working Papers
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
 1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
-    - Finalist in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
+    - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
 
 1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
 
