@@ -26,13 +26,13 @@ Journal Papers
     - Finalist in 2022 INFORMS PSOR Best Paper Award
     - Third place in 2022 ISCOM Best Paper Award
 
-1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
-
-1. "Stability of procurement networks," with Khai Chiong, 2025. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
-
 1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
 
 1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
+
+1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. **Manufacturing & Service Operations Management**, 27(6): 1905-1922. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
+
+1. "Stability of procurement networks," with Khai Chiong, 2025. **Manufacturing & Service Operations Management**, 27(6): 1923-1938. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
 
 1. “To communicate or not? Inter-firm communication in collaborative projects,” with Ruth Beer, 2024. **Management Science**, 70(5): 3225–3244. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290267)
 
