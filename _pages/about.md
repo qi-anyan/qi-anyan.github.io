@@ -20,6 +20,9 @@ RESEARCH
 
 Journal Papers
 ------
+1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Conditionally accepted in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
+    - Selected for presentation at 2023 MSOM TIE SIG Meeting
+
 1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
 
 1. "Combating excessive overtime in global supply chains: The workforce perspective," with Jiayu Chen and Chuanya Jiao, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
@@ -57,7 +60,6 @@ Journal Papers
     - Extended abstract published in M&SOM, 16(1): 161–164.
 
 
-
 1. “Investing in a shared supplier in a competitive market: Stochastic capacity case,” with Hyun-Soo Ahn and Amitabh Sinha, 2015. **Production and Operations Management**, 24(10): 1537–1551. [[Journal]](https://journals.sagepub.com/doi/full/10.1111/poms.12348)
     - Finalist in POMS College of Supply Chain Management Student Paper Competition
 
@@ -81,9 +83,6 @@ Working Papers
     - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
 **Procurement Mechanism and Collaborative Projects**
-
-1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Conditionally accepted in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
-    - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
