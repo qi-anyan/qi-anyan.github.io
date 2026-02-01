@@ -80,14 +80,12 @@ Working Papers
 1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
     - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
-**Procurement Mechanism and Contract Design**
+**Procurement Mechanism and Collaborative Projects**
 
-1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
+1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Conditionally accepted in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
-
-**Collaborative Projects**
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
