@@ -33,7 +33,7 @@ Journal Papers
 
 1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
 
-1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2025. **Management Science**, 72(1): 575-593. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
+1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2026. **Management Science**, 72(1): 575-593. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
 
 1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. **Manufacturing & Service Operations Management**, 27(6): 1905-1922. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
