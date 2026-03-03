@@ -20,6 +20,8 @@ RESEARCH
 
 Journal Papers
 ------
+1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
+
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Conditionally accepted in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
@@ -69,7 +71,6 @@ Working Papers
 
 **Social Responsibility and Sustainability**
 
-1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
