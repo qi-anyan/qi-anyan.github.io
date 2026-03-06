@@ -22,7 +22,7 @@ Journal Papers
 ------
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
-1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Conditionally accepted in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
+1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
 1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
