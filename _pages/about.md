@@ -74,7 +74,7 @@ Working Papers
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
-1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. 
+1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
 **Capacity Management and Resource Allocation**
 
