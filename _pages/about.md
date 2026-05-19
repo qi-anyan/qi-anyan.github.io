@@ -26,6 +26,7 @@ Journal Papers
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
 1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
+    - Selected for presentation at 2026 MSOM iFORM SIG Meeting
 
 1. "Combating excessive overtime in global supply chains: The workforce perspective," with Jiayu Chen and Chuanya Jiao, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
     - Finalist in 2022 INFORMS PSOR Best Paper Award
