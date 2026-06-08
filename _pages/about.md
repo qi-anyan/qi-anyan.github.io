@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Anyan Qi is a Visiting Associate Professor of Operations Management at the SC Johnson College of Business at Cornell University and an Associate Professor of Operations Management at the Naveen Jindal School of Management (JSOM) at the University of Texas at Dallas (UT-Dallas). His primary research interests are in socially responsible operations, strategic procurement, and capacity management in modern supply chains, where he leverages tools such as game theory, behavioral experiments, and data-driven optimization. His work has been published in **Management Science**, **Manufacturing & Service Operations Management**, **Operations Research**, and **Production and Operations Management**. 
+Anyan Qi has been promoted to be a Professor of Operations Management (effective September 1, 2026) at the Naveen Jindal School of Management (JSOM) at the University of Texas at Dallas (UT-Dallas). His primary research interests are in socially responsible operations, strategic procurement, and capacity management in modern supply chains, where he leverages tools such as game theory, behavioral experiments, and data-driven optimization. His work has been published in **Management Science**, **Manufacturing & Service Operations Management**, **Operations Research**, and **Production and Operations Management**. 
 
 As an active member of the academic community, Anyan serves as an Associate Editor for **Management Science**, **Manufacturing & Service Operations Management**, and **Decision Sciences**, a Senior Editor for **Production and Operations Management**, and a Department Editor for the **Journal of Systems Science and Systems Engineering**. He has received the Management Science Distinguished Service Award, the Management Science Meritorious Service Award, and the M&SOM Meritorious Service Award. In JSOM, he also serves as the PhD Area Coordinator for Operations Management ([Program LinkedIn Page](https://www.linkedin.com/company/jsom-operations-management-phd-program/?viewAsMember=true)). 
 
@@ -32,7 +32,7 @@ Journal Papers
     - Finalist in 2022 INFORMS PSOR Best Paper Award
     - Third place in 2022 ISCOM Best Paper Award
 
-1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
+1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2026. **Management Science**, 72(6): 5150-5170. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
 
 1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2026. **Management Science**, 72(1): 575-593. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
 
@@ -169,6 +169,12 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 
 - 2020, Spring, 5.0
 
+Johnson School of Management, Cornell University
+------
+
+### NCCY 5080: Operations management
+
+- 2025, Fall, 4.9, 4.9
 
 Stephen M. Ross School of Business, University of Michigan
 ------
