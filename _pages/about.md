@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME"
+title: "Anyan Qi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,17 +9,13 @@ redirect_from:
 
 Anyan Qi has been promoted to be a Professor of Operations Management (effective September 1, 2026) at the Naveen Jindal School of Management (JSOM) at the University of Texas at Dallas (UT-Dallas). His primary research interests are in socially responsible operations, strategic procurement, and capacity management in modern supply chains, where he leverages tools such as game theory, behavioral experiments, and data-driven optimization. His work has been published in **Management Science**, **Manufacturing & Service Operations Management**, **Operations Research**, and **Production and Operations Management**. 
 
-As an active member of the academic community, Anyan serves as an Associate Editor for **Management Science**, **Manufacturing & Service Operations Management**, and **Decision Sciences**, a Senior Editor for **Production and Operations Management**, and a Department Editor for the **Journal of Systems Science and Systems Engineering**. He has received the Management Science Distinguished Service Award, the Management Science Meritorious Service Award, and the M&SOM Meritorious Service Award. In JSOM, he also serves as the PhD Area Coordinator for Operations Management ([Program LinkedIn Page](https://www.linkedin.com/company/jsom-operations-management-phd-program/?viewAsMember=true)). 
+As an active member of the academic community, Anyan serves as an Associate Editor for **Management Science**, **Manufacturing & Service Operations Management**, and **Decision Sciences**, a Senior Editor for **Production and Operations Management**, and a Department Editor for the **Journal of Systems Science and Systems Engineering**. He has received the Management Science Distinguished Service Award, the Management Science Meritorious Service Award, and the M&SOM Meritorious Service Award. In JSOM, he also serves as the PhD Area Coordinator for Operations Management ([Program LinkedIn Page](https://www.linkedin.com/company/jsom-operations-management-phd-program/)). 
 
-Before joining UT-Dallas, Anyan earned a Ph.D. degree in Technology and Operations from the Ross School of Business, University of Michigan, a Bachelor’s degree in Automation from the School of Information Science and Technology, and a Bachelor’s degree in Economics from the School of Economics and Management in Tsinghua University.
+Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from the Ross School of Business, University of Michigan, a Bachelor’s degree in Automation from the School of Information Science and Technology, and a Bachelor’s degree in Economics from the School of Economics and Management at Tsinghua University.
 
-<br><br>
+## Research
 
-RESEARCH
-======
-
-Journal Papers
-------
+### Journal Papers
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
@@ -67,17 +63,15 @@ Journal Papers
     - Finalist in POMS College of Supply Chain Management Student Paper Competition
 
 
-Working Papers
-------
+### Working Papers
 
-**Social Responsibility and Sustainability**
-
+#### Social Responsibility and Sustainability
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
 1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
-**Capacity Management and Resource Allocation**
+#### Capacity Management and Resource Allocation
 
 1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
@@ -86,7 +80,7 @@ Working Papers
 1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
     - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
-**Procurement Mechanism and Collaborative Projects**
+#### Procurement Mechanism and Collaborative Projects
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
@@ -99,30 +93,24 @@ Working Papers
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
 
-Invited Book Chapter
-------
+### Invited Book Chapter
 
 1. “Auditing, inspections, and testing for social responsibility in supply networks,” with Milind Dawande, 2020. Swaminathan, J, Deshpande, V, eds. Responsible Business Operations, Springer Series in Supply Chain Management 10, (Springer Nature Switzerland AG, Switzerland), 243—259. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521582)
 
-
-<br><br>
-
-TEACHING 
-======
+## Teaching
 
 <span style="font-size: 16px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 
-Naveen Jindal School of Management, the University of Texas at Dallas
-------
+### Naveen Jindal School of Management, the University of Texas at Dallas
 
-### Ph.D. Dissertation Committee Co-Chair
+#### Ph.D. Dissertation Committee Co-Chair
 
 - 2026 (expected), Pramit Ghosh, co-chair with Ignacio Rios
 - 2020, Jiayu Chen (Assistant Professor at University of Calgary), co-chair with Milind Dawande
 - 2018, Sina Shokoohyar (Assistant Professor at Saint Joseph’s University), co-chair with Elena Katok
 
 
-### Ph.D. Dissertation Committee Member
+#### Ph.D. Dissertation Committee Member
 
 - 2025, Haokun Du (Assistant Professor at University of Auckland)
 - 2025, Beyza Celik (Data Scientist at American Airline)
@@ -138,7 +126,7 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 - 2017, Emre Ertan (Research Scientist at Amazon)
 
 
-### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
+#### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
 
 - 2025, Spring, 4.9, 4.9
 - 2024, Spring, 5.0
@@ -153,7 +141,7 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 - 2014, Fall, 4.9, 4.9
 
 
-### OPRE 3310: Operations management 
+#### OPRE 3310: Operations management 
 
 - 2024, Fall, 4.9
 - 2023, Fall, 4.9, 4.9
@@ -166,28 +154,23 @@ Naveen Jindal School of Management, the University of Texas at Dallas
 - 2015, Fall, 4.8, 5.0
 
 
-### OPRE 6301: Statistics and data analysis
+#### OPRE 6301: Statistics and data analysis
 
 - 2020, Spring, 5.0
 
-Johnson School of Management, Cornell University
-------
+### Johnson School of Management, Cornell University
 
-### NCCY 5080: Operations management
+#### NCCY 5080: Operations management
 
 - 2025, Fall, 4.9, 4.9
 
-Stephen M. Ross School of Business, University of Michigan
-------
+### Stephen M. Ross School of Business, University of Michigan
 
-### OMS 311: Operations management
+#### OMS 311: Operations management
 
 - 2011, Winter, 5.0
 
-<br><br>
-
-SERVICE
-======
+## Service
 
 ### Editorial Service
 
@@ -238,11 +221,7 @@ SERVICE
 - Conference Organizing Committee member for BOM Conference 2018
 - Session Chair for several conferences
 
-
-<br><br>
-
-HONORS
-======
+## Honors
 
 - Management Science Meritorious Service Award (2024)
 - Management Science Distinguished Service Award (2023)
@@ -271,4 +250,3 @@ HONORS
 - Chang Tong Scholarship, Tsinghua University (2006)
 - National Scholarship, Tsinghua University (2005)
 - POSCO Scholarship, Tsinghua University (2004)
-
