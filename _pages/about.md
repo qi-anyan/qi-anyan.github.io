@@ -65,13 +65,13 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 ### Working Papers
 
-#### Social Responsibility and Sustainability
+**Social Responsibility and Sustainability**
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
 1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
-#### Capacity Management and Resource Allocation
+**Capacity Management and Resource Allocation**
 
 1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
@@ -80,7 +80,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
     - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
-#### Procurement Mechanism and Collaborative Projects
+**Procurement Mechanism and Collaborative Projects**
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
@@ -101,16 +101,16 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 <span style="font-size: 16px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 
-### Naveen Jindal School of Management, the University of Texas at Dallas
+**Naveen Jindal School of Management, the University of Texas at Dallas**
 
-#### Ph.D. Dissertation Committee Co-Chair
+**Ph.D. Dissertation Committee Co-Chair**
 
-- 2026 (expected), Pramit Ghosh, co-chair with Ignacio Rios
+- 2026, Pramit Ghosh (Assistant Professor at IE Business School), co-chair with Ignacio Rios
 - 2020, Jiayu Chen (Assistant Professor at University of Calgary), co-chair with Milind Dawande
 - 2018, Sina Shokoohyar (Assistant Professor at Saint Joseph’s University), co-chair with Elena Katok
 
 
-#### Ph.D. Dissertation Committee Member
+**Ph.D. Dissertation Committee Member**
 
 - 2025, Haokun Du (Assistant Professor at University of Auckland)
 - 2025, Beyza Celik (Data Scientist at American Airline)
@@ -126,7 +126,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - 2017, Emre Ertan (Research Scientist at Amazon)
 
 
-#### OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)
+**OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)**
 
 - 2025, Spring, 4.9, 4.9
 - 2024, Spring, 5.0
@@ -141,7 +141,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - 2014, Fall, 4.9, 4.9
 
 
-#### OPRE 3310: Operations management 
+**OPRE 3310: Operations management**
 
 - 2024, Fall, 4.9
 - 2023, Fall, 4.9, 4.9
@@ -154,19 +154,19 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - 2015, Fall, 4.8, 5.0
 
 
-#### OPRE 6301: Statistics and data analysis
+**OPRE 6301: Statistics and data analysis**
 
 - 2020, Spring, 5.0
 
-### Johnson School of Management, Cornell University
+**Johnson School of Management, Cornell University**
 
-#### NCCY 5080: Operations management
+**NCCY 5080: Operations management**
 
 - 2025, Fall, 4.9, 4.9
 
-### Stephen M. Ross School of Business, University of Michigan
+**Stephen M. Ross School of Business, University of Michigan**
 
-#### OMS 311: Operations management
+**OMS 311: Operations management**
 
 - 2011, Winter, 5.0
 
