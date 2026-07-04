@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "qi-anyan-website",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Jekyll theme JavaScript build scripts for qi-anyan.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/qi-anyan/qi-anyan.github.io"
   },
   "keywords": [
     "jekyll",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/qi-anyan/qi-anyan.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://github.com/qi-anyan/qi-anyan.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
