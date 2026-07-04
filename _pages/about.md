@@ -15,7 +15,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 ## Research
 
-### Journal Papers
+### <u>Journal Papers</u>
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
@@ -63,7 +63,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
     - Finalist in POMS College of Supply Chain Management Student Paper Competition
 
 
-### Working Papers
+### <u>Working Papers</u>
 
 **Social Responsibility and Sustainability**
 
@@ -93,7 +93,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
 
 
-### Invited Book Chapter
+### <u>Invited Book Chapter</u>
 
 1. “Auditing, inspections, and testing for social responsibility in supply networks,” with Milind Dawande, 2020. Swaminathan, J, Deshpande, V, eds. Responsible Business Operations, Springer Series in Supply Chain Management 10, (Springer Nature Switzerland AG, Switzerland), 243—259. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521582)
 
@@ -101,7 +101,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 <span style="font-size: 16px;">(instructor evaluations in parentheses on the rating scale of 5.0)</span>
 
-**Naveen Jindal School of Management, the University of Texas at Dallas**
+**<u>Naveen Jindal School of Management, the University of Texas at Dallas</u>**
 
 **Ph.D. Dissertation Committee Co-Chair**
 
@@ -158,13 +158,13 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 - 2020, Spring, 5.0
 
-**Johnson School of Management, Cornell University**
+**<u>Johnson School of Management, Cornell University</u>**
 
 **NCCY 5080: Operations management**
 
 - 2025, Fall, 4.9, 4.9
 
-**Stephen M. Ross School of Business, University of Michigan**
+**<u>Stephen M. Ross School of Business, University of Michigan</u>**
 
 **OMS 311: Operations management**
 
