@@ -28,13 +28,13 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
     - Finalist in 2022 INFORMS PSOR Best Paper Award
     - Third place in 2022 ISCOM Best Paper Award
 
-1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2026. **Management Science**, 72(6): 5150-5170. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
+1. "Human decision-making in dynamic resource allocation," with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li. 2026. **Management Science**, 72(6): 5150–5170. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913075)
 
-1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2026. **Management Science**, 72(1): 575-593. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
+1. "Behavioral externalities of process automation," with Ruth Beer and Ignacio Rios, 2026. **Management Science**, 72(1): 575–593. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295527)
 
-1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. **Manufacturing & Service Operations Management**, 27(6): 1905-1922. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
+1. “Coordination for assembly,” with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025. **Manufacturing & Service Operations Management**, 27(6): 1905–1922. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889868)
 
-1. "Stability of procurement networks," with Khai Chiong, 2025. **Manufacturing & Service Operations Management**, 27(6): 1923-1938. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
+1. "Stability of procurement networks," with Khai Chiong, 2025. **Manufacturing & Service Operations Management**, 27(6): 1923–1938. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4752112)
 
 1. “To communicate or not? Inter-firm communication in collaborative projects,” with Ruth Beer, 2024. **Management Science**, 70(5): 3225–3244. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290267)
 
@@ -44,7 +44,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 1. “Procurement for assembly under asymmetric information: Theory and evidence,” with Andrew Davis, Bin Hu, and Kyle Hyndman, 2022. **Management Science**, 68(4): 2694–2713. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3292622)
 
-1. “Supplier centrality and auditing priority in socially responsible supply chains,” with Jiayu Chen and Milind Dawande, 2020. **Manufacturing & Service Operations Management**, 22(6): 1199-1214. [[SSRN]](https://papers.ssrn.com/abstract=2889889)
+1. “Supplier centrality and auditing priority in socially responsible supply chains,” with Jiayu Chen and Milind Dawande, 2020. **Manufacturing & Service Operations Management**, 22(6): 1199–1214. [[SSRN]](https://papers.ssrn.com/abstract=2889889)
     - Honorable Mention in POMS College of Sustainable Operations 2019 Best Student Paper Competition (entrant: Jiayu Chen)
 
 1. “To share or not to share? Capacity reservation in a shared supplier,” with Hyun-Soo Ahn and Amitabh Sinha, 2019. **Production and Operations Management**, 28(11): 2823–2840. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2909260)
@@ -95,7 +95,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 ### <u>Invited Book Chapter</u>
 
-1. “Auditing, inspections, and testing for social responsibility in supply networks,” with Milind Dawande, 2020. Swaminathan, J, Deshpande, V, eds. Responsible Business Operations, Springer Series in Supply Chain Management 10, (Springer Nature Switzerland AG, Switzerland), 243—259. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521582)
+1. “Auditing, inspections, and testing for social responsibility in supply networks,” with Milind Dawande, 2020. Swaminathan, J, Deshpande, V, eds. Responsible Business Operations, Springer Series in Supply Chain Management 10, (Springer Nature Switzerland AG, Switzerland), 243–259. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521582)
 
 ## Teaching
 
@@ -179,7 +179,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - Senior Editor for **Production and Operations Management** (2019–present)
 - Associate Editor for **Decision Sciences** (2022–present)
 - Department Editor for **Journal of Systems Science and Systems Engineering** (2025-present)
-- Guest Associate Editor for **Management Science** (2024-2025)
+- Guest Associate Editor for **Management Science** (2024–2025)
 
 ### Academic Community Service
 
