@@ -106,12 +106,13 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 **Ph.D. Dissertation Committee Co-Chair**
 
 - 2026, Pramit Ghosh (Assistant Professor at IE Business School), co-chair with Ignacio Rios
-- 2020, Jiayu Chen (Assistant Professor at University of Calgary), co-chair with Milind Dawande
-- 2018, Sina Shokoohyar (Assistant Professor at Saint Joseph’s University), co-chair with Elena Katok
+- 2020, Jiayu Chen (Assistant Professor at University of Oklahoma), co-chair with Milind Dawande
+- 2018, Sina Shokoohyar (Associate Professor at Seton Hall University), co-chair with Elena Katok
 
 
 **Ph.D. Dissertation Committee Member**
 
+- 2026, Like Bu (Assistant Professor at University of Missouri-Kansas City)
 - 2025, Haokun Du (Assistant Professor at University of Auckland)
 - 2025, Beyza Celik (Data Scientist at American Airline)
 - 2024, Goutham Takasi (Assistant Professor at University of Alabama)
@@ -128,6 +129,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 **OPRE 3360: Managerial methods in decision making under uncertainty (Business statistics)**
 
+- 2026, Spring, 4.9, 4.9
 - 2025, Spring, 4.9, 4.9
 - 2024, Spring, 5.0
 - 2023, Spring, 4.8
