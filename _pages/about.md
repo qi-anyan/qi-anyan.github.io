@@ -118,7 +118,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - 2024, Goutham Takasi (Assistant Professor at University of Alabama)
 - 2024, Arun Kumar Rout (Assistant Professor at SUNY Buffalo)
 - 2024, Zihao Qu (Assistant Professor at UMass Amherst)
-- 2022, Lingling Shi (Postdoctoral Researcher at Southern Methodist University)
+- 2022, Lingling Shi (Assistant Professor at McMaster University)
 - 2022, Duc Vu (Assistant Professor at University of Michigan-Flint)
 - 2020, Zhichao Feng (Assistant Professor at The Hong Kong Polytechnic University)
 - 2019, Harish Guda (Assistant Professor at Arizona State University)
@@ -185,12 +185,12 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 ### Academic Community Service
 
-- Chair for **MSOM Society SCM SIG** (2025-present)
+- Chair for **MSOM Society SCM SIG** (2025–2027)
 
 ### Referee Service
 
 - Reviewer for Management Science, Operations Research, Manufacturing & Service Operations Management, Production and Operations Management, Strategic Management Journal, Naval Research Logistics, IISE Transactions, Omega, International Transactions in Operations Research, Economic Inquiry
-- Reviewer for Research Grants Council (RGC) of Hong Kong (2018–2020, 2022)
+- Reviewer for Research Grants Council (RGC) of Hong Kong (2018–2020, 2022–2023)
 - Conference Reviewer for MSOM SCM SIG (2017–2023)
 - Conference Reviewer for MSOM TIE SIG (2023, 2025)
 - Conference Reviewer for MSOM Sustainable Operations SIG (2020, 2021)
@@ -198,19 +198,20 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 ### Judge for Paper Competitions
 
-- Judge for MSOM Student Paper Competition (2017–2024) 
-- Judge for CSAMSE Best Paper Competition (2021–2024)
+- Judge for MSOM Student Paper Competition (2017–2025) 
+- Judge for CSAMSE Best Paper Competition (2021–2025)
 - Judge for INFORMS PSOR Best Paper Award (2021)
 - Judge for INFORMS TIMES Best Working Paper Competition (2020–2025)
 - Judge for INFORMS BOM Best Working Paper Competition (2016, 2020, 2021, 2023)
 - Judge for POMS College of Supply Chain Management Student Paper Competition (2020)
 - Judge for POMS College of Behavior in OM Junior Scholar Paper Competition (2020, 2022–2025)
-- Judge for POMS-HK Best Student Paper Competition (2024)
+- Judge for POMS-HK Best Student Paper Competition (2024, 2026)
 
 
 ### Other
 
 - Invited Panelist of DSI Annual Conference, Orlando, FL (2025)
+- Co-Chair for Milind Dawande Memorial Workshop, Richardson, TX (2025)
 - Track Co-Chair for POMS Annual Meeting, Atlanta, GA (2025)
 - Invited Panelist of INFORMS Doctoral Student Colloquium, Seattle, WA (2024)
 - SIG-Day Co-Chair for MSOM SCM SIG Conference, Minneapolis, MN (2024)
