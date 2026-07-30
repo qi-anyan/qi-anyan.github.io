@@ -71,6 +71,13 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
+**Human-AI Collaboation**
+1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
+    - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
+    - Second Place in the 2026 POMS-HK Best Student Paper Award
+
+1.  "The Scaling Paradox in Human-AI Collaboration," with Mengxin Wang. 
+
 **Capacity Management and Resource Allocation**
 
 1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
@@ -83,10 +90,6 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 **Procurement Mechanism and Collaborative Projects**
 
 1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
-
-1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
-    - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
-    - Second Place in the 2026 POMS-HK Best Student Paper Award
 
 1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
 
