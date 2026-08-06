@@ -76,7 +76,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
     - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
     - Second Place in the 2026 POMS-HK Best Student Paper Award
 
-1.  "The Scaling Paradox in Human-AI Collaboration," with Mengxin Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207559)
+1.  "The Scaling Paradox in Human-AI Collaboration," with Mengxin Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207559) [[arXiv]](http://arxiv.org/abs/2608.00818)
 
 **Capacity Management and Resource Allocation**
 
