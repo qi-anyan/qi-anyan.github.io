@@ -256,3 +256,6 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - Chang Tong Scholarship, Tsinghua University (2006)
 - National Scholarship, Tsinghua University (2005)
 - POSCO Scholarship, Tsinghua University (2004)
+
+
+[def]: http://arxiv.org/abs/2608.00818
