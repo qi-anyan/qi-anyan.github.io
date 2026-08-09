@@ -182,7 +182,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 - Associate Editor for **Management Science** (2025-present)
 - Associate Editor for **Manufacturing & Service Operations Management** (2024–present)
 - Senior Editor for **Production and Operations Management** (2019–present)
-- Associate Editor for **Decision Sciences** (2022–present)
+- Associate Editor for **Decision Sciences** (2022–2026)
 - Department Editor for **Journal of Systems Science and Systems Engineering** (2025-present)
 - Guest Associate Editor for **Management Science** (2024–2025)
 
