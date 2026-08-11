@@ -16,6 +16,8 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 ## Research
 
 ### <u>Journal Papers</u>
+1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
+
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
 
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
@@ -79,8 +81,6 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 1.  "The Scaling Paradox in Human-AI Collaboration," with Mengxin Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207559) [[arXiv]](http://arxiv.org/abs/2608.00818)
 
 **Capacity Management and Resource Allocation**
-
-1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
 1. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
 
