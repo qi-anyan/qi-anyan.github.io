@@ -16,6 +16,9 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 ## Research
 
 ### <u>Journal Papers</u>
+1. "Expanding into on-demand markets with 'Airbnb of Warehousing'," with Soraya (Nadia) Fatehi, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7129918)
+    - Selected for presentation at the 2023 MSOM SCM SIG Meeting
+
 1. "Service systems with on-demand and reserved servers," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735928)
 
 1. "Greenwashing under competition,”  with Soraya (Nadia) Fatehi, Liqun Wei, and Jianxiong Zhang, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433364)
@@ -83,9 +86,6 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 **Capacity Management and Resource Allocation**
 
 1. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
-
-1. "Expanding into on-demand markets with ‘Airbnb of Warehousing’,”  with Soraya (Nadia) Fatehi. 
-    - Selected for presentation at 2023 MSOM SCM SIG Meeting
 
 **Procurement Mechanism and Collaborative Projects**
 
