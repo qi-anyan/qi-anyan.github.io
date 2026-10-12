@@ -78,7 +78,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
-**Human-AI Collaboation**
+**Human-AI Collaboration**
 1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
     - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
     - Second Place in the 2026 POMS-HK Best Student Paper Award
