@@ -78,24 +78,23 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 1. "Combating excessive overtime with supply diversification,” with Zixun Du, Chuanya Jiao, and Tianyu Yan. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790758)
 
-**Human-AI Collaboration**
+1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
+
+**Human-AI Collaboration; Collaborative Projects; Learning**
+
 1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
     - Third Place in 2025 INFORMS Service Science Best Cluster Paper Award Competition (General Track)
     - Second Place in the 2026 POMS-HK Best Student Paper Award
 
 1.  "The scaling paradox in human-AI collaboration," with Mengxin Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7207559) [[arXiv]](http://arxiv.org/abs/2608.00818)
 
-**Capacity Management and Resource Allocation**
+1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
 
 1. "Online learning and capacity management in cloud-cost optimization," with Milind Dawande, Zhichao Feng, and Ganesh Janakiraman. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812792)
 
-**Procurement Mechanism and Collaborative Projects**
+**Others**
 
-1. "Team building and incentive schemes in collaborative projects," with Ruth Beer and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872792)
-
-1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
-
-1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390)
+1. "Top or regular influencer? Contracting in live-streaming platform selling," with Suresh Sethi, Liqun Wei, and Jianxiong Zhang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668390) (dormant)
 
 
 ### <u>Invited Book Chapter</u>
