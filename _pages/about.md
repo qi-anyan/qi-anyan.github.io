@@ -26,7 +26,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 1. "Startup contracting and entrepreneur-investor bargaining," with Kyle Hyndman and Evgeny Kagan, 2026. Forthcoming in **Manufacturing & Service Operations Management**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844516)
     - Selected for presentation at 2023 MSOM TIE SIG Meeting
 
-1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
+1. "Capacity and pricing management with demand learning," with Jian Chen, Zechao Li, and Yining Wang, 2026. **Management Science**, 72(11): 9478–9500. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414361)
     - Selected for presentation at 2026 MSOM iFORM SIG Meeting
 
 1. "Combating excessive overtime in global supply chains: The workforce perspective," with Jiayu Chen and Chuanya Jiao, 2025. Forthcoming in **Management Science**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134422)
