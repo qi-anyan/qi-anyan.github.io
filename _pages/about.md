@@ -73,7 +73,7 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 **Social Responsibility and Sustainability**
 
 1. "Waste picker integration," with Ganesh Janakiraman and Tianyu Yan.
-    - Winner, PSOR Best Video Award 2026 (entrant: Tianyu Yan)
+    - Winner, 2026 INFORMS PSOR Best Video Award (entrant: Tianyu Yan)
 
 1. "Disability-inclusive workforce planning,” with Chen Hu and Yongbo Xiao. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355014)
 
