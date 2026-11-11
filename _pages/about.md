@@ -81,6 +81,8 @@ Before joining UT-Dallas, Anyan earned a Ph.D. in Technology and Operations from
 
 1. "Designing effective fundraising campaigns: The role of incentives and solicitation mechanisms," with Pramit Ghosh and Ignacio Rios. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384776)
 
+1. "Designing effective fundraising campaigns: Behavioral insights," with Ignacio Rios and Pramit Ghosh.
+
 **Human-AI Collaboration; Collaborative Projects; Learning**
 
 1. "Why the best machine may not be the best: Incentivizing human-machine collaboration," with Xiaotong Guan and Shouqiang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571)
